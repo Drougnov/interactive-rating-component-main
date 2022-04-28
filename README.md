@@ -14,7 +14,7 @@ Here is the link of the challange-
 https://www.frontendmentor.io/challenges/interactive-rating-component-koxpeBUmI
 
 Here is the solution site url-
- https://drougnov.github.io/interactive-rating-component-main/
+https://drougnov.github.io/interactive-rating-component-main/
 
 ## Built with
 
